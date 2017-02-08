@@ -1,0 +1,9 @@
+h1, h2, h3 {
+color: brown;
+}
+ul {
+  list-style-image: url("images/tiny-coffee-cup.gif");
+}
+.class-font-goo {
+  font-family: 'Barrio', cursive;
+}
